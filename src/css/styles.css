@@ -1,0 +1,19 @@
+    .is-hidden {
+        display: none;
+    }
+    .cat-info{
+        display: flex;
+    }
+    
+    .desc-wrapper{
+        display: flex;
+        flex-direction: column;
+        max-width: 500px;
+    }
+    .img-settings {
+        display: flex;
+        margin-right: 12px;
+    }
+    .description {
+        max-width: 100%;
+    }
